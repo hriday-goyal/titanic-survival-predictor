@@ -1,3 +1,4 @@
+[![Kaggle](https://img.shields.io/badge/Kaggle-Submission-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/titanic)
 # 🚢 Titanic Survival Predictor – ML Competition Project
 
 This is my solution to the classic [Kaggle Titanic ML competition](https://www.kaggle.com/competitions/titanic). The task is to predict survival of passengers based on features like age, gender, class, and fare.
